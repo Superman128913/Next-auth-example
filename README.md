@@ -99,15 +99,3 @@ npm run start
 ### 5. Preparing for Production
 
 Follow the [Deployment documentation](https://next-auth.js.org/deployment)
-
-## Acknowledgements
-
-<a href="https://vercel.com?utm_source=nextauthjs&utm_campaign=oss">
-<img width="170px" src="https://raw.githubusercontent.com/nextauthjs/next-auth/canary/www/static/img/powered-by-vercel.svg" alt="Powered By Vercel" />
-</a>
-<p align="left">Thanks to Vercel sponsoring this project by allowing it to be deployed for free for the entire NextAuth.js Team</p>
-
-## License
-
-ISC
-
